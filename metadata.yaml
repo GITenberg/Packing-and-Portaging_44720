@@ -1,0 +1,29 @@
+_repo: Packing-and-Portaging_44720
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44720-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wallace, Dillon
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '1361'
+    url: http://www.gutenberg.org/2009/agents/1361
+    wikipedia: http://en.wikipedia.org/wiki/Dillon_Wallace
+description: ''
+gutenberg_issued: '2014-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44720'
+  lccn: '12040654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Equipment and supplies'
+- !lcsh 'Transportation'
+- !lcc 'SK'
+title: Packing and Portaging
+url: http://www.gutenberg.org/ebooks/44720
